@@ -29,4 +29,5 @@ Insertion Sort algorithm-array in ascending order.
             arr[j + 1] = small;
         }
     }
+    
 <img width="386" alt="Screenshot 2023-04-22 184444" src="https://user-images.githubusercontent.com/124857385/233787340-b81b496e-1632-4ffa-946e-6acc7bec8132.png">
